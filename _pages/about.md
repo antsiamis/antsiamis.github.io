@@ -11,4 +11,4 @@ I am a Senior Scientist in the Automatic Control Laboratory at ETH Zürich, work
 
 Research Interests
 ======
-Systems and Control Theory, Statistical Learning Theory, Machine Learning, Data-Driven Control, Online Learning and Optimization, Robust Control, Risk-Sensitive Control and Optimization, Distributionally Robust Control, Robotics, Control Systems Security, Estimation Theory
+Control Theory, Learning-based Control, Statistical Learning Theory, Online Learning and Optimization, Robust Control, Risk-Sensitive Control, Distributionally Robust Control, Robotics

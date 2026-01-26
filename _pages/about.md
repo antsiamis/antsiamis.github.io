@@ -19,7 +19,7 @@ My current research lies in the intersection of control theory and machine learn
 
  <div style="flex: 1 1 200px; max-width: 200px; display: flex; flex-direction: column; align-items: center; text-align: center;">
     <figure style="margin: 0; text-align: center;">
-      <img src="RESEARCH.png" alt="Figure" style="width: 120%; border-radius: 10px;">
+      <img src="images/RESEARCH.png" alt="Figure" style="width: 120%; border-radius: 10px;">
       <figcaption style="margin-top: 10px; margin-bottom: 20px; width: 120%;">Research Agenda</figcaption>
     </figure>
   </div>

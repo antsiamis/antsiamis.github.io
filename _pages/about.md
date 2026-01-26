@@ -17,9 +17,9 @@ Research Overview
 ======
 My current research lies in the intersection of control theory and machine learning. Learning-based control emerges as a promising solution for modern control applications, where adaptation to complex and unknown environments is required. Despite recent progress, we still do not fully understand the impact and limitations of learning algorithms on even simple control systems. My goal is to understand these limitations and develop algorithms that are efficient and safe.
 
-<figure>
+<figure style="float: left;">
     <img src="../images/RESEARCH.png"
-         alt="Research Agenda" style="width: 40%; float: left;">
+         alt="Research Agenda" style="width: 40%;">
     <!--<figcaption> Research Agenda.</figcaption>-->
 </figure>
   

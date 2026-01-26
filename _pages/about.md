@@ -15,4 +15,4 @@ Control Theory, Learning-based Control, Statistical Learning Theory, Online Lear
 
 Research Overview
 ======
-Modern control applications require systems can adapt to complex and unknow environments. Learning-based control emerges as a promising solution, augmenting traditional feedback loops with data. Despite the recent progress, we still do not fully understand the impact of learning algorithms on even simple control systems.
+Modern control applications require systems that can adapt to complex and unknow environments. Learning-based control emerges as a promising solution, augmenting traditional feedback loops with data. Despite the recent progress, we still do not fully understand the impact of learning algorithms on even simple control systems.

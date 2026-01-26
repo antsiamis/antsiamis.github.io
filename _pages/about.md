@@ -19,8 +19,8 @@ My current research lies in the intersection of control theory and machine learn
 
 <figure>
     <img src="../images/RESEARCH.png"
-         alt="Research Agenda" style="width: 80%;">
-    <figcaption> Research Agenda.</figcaption>
+         alt="Research Agenda" style="width: 40%;">
+    <!--<figcaption> Research Agenda.</figcaption>-->
 </figure>
   
 One of the main challenges in control systems is that closed-loop data are scarce. Hence, understanding the data requirements, that is, the **statistical complexity**, is essential. I am interested in understanding what makes learning easy (few samples are enough) or hard (many samples are necessary). How do system properties affect the statistical complexity? When is an algorithms statistically optimal? To answer these questions, one can borrow tools from **statistical learning theory** and carefully apply them to the setting of control systems.

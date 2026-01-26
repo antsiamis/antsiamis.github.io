@@ -17,11 +17,10 @@ Research Overview
 ======
 My current research lies in the intersection of control theory and machine learning. Learning-based control emerges as a promising solution for modern control applications, where adaptation to complex and unknown environments is required. Despite recent progress, we still do not fully understand the impact and limitations of learning algorithms on even simple control systems. My goal is to understand these limitations and develop algorithms that are efficient and safe.
 
-<figure style="float: left;">
-    <img src="../images/RESEARCH.png"
-         alt="Research Agenda" style="width: 40%;">
+<img src="../images/RESEARCH.png"
+     alt="Research Agenda" style="width: 40%; float: left;">
     <!--<figcaption> Research Agenda.</figcaption>-->
-</figure>
+<!--</figure>-->
   
 One of the main challenges in control systems is that closed-loop data are scarce. Hence, understanding the data requirements, that is, the **statistical complexity**, is essential. I am interested in understanding what makes learning easy (few samples are enough) or hard (many samples are necessary). How do system properties affect the statistical complexity? When is an algorithms statistically optimal? To answer these questions, one can borrow tools from **statistical learning theory** and carefully apply them to the setting of control systems.
 

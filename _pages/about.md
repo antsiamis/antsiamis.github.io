@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Scientist in the Automatic Control Laboratory at ETH Zürich, hosted by John Lygeros. Previously, I obtained my Ph.D. in the Electrical and Systems Engineering department at the University of Pennsylvania working with prof. George Pappas. I was a graduate research assistant with prof. Petros Maragos in Computer Vision, Speech Communication and Signal Processing Group at National Technical University of Athens (NTUA). I did my undergraduate thesis and research with prof. Kostas J. Kyriakopoulos in Control Systems Laboratory at NTUA. I received the diploma in Electrical and Computer Engineering at NTUA.
+I am a Senior Scientist at the Automatic Control Laboratory, ETH Zürich, hosted by John Lygeros. Previously, I obtained my Ph.D. in the Electrical and Systems Engineering department at the University of Pennsylvania working with prof. George Pappas. I was a graduate research assistant with prof. Petros Maragos in Computer Vision, Speech Communication and Signal Processing Group at National Technical University of Athens (NTUA). I did my undergraduate thesis and research with prof. Kostas J. Kyriakopoulos in Control Systems Laboratory at NTUA. I received the diploma in Electrical and Computer Engineering at NTUA.
 
 Research Interests
 ======

@@ -15,7 +15,7 @@ Control Theory, Learning-based Control, Statistical Learning Theory, Online Lear
 
 Research Overview
 ======
-My current research lies in the intersection of control theory and machine learning. Modern control applications require systems that can adapt to complex, unknown, and changing environments. Learning-based control emerges as a promising solution, augmenting traditional feedback control by exploiting data. Despite recent progress, we still do not fully understand the impact of learning algorithms on even simple control systems.
+My current research lies in the intersection of control theory and machine learning. Learning-based control emerges as a promising solution for modern control applications, where adaptation to complex and unknown environments is required. Despite recent progress, we still do not fully understand the impact and limitations of learning algorithms on even simple control systems.
 
 In my research,I am interested in understanding how system theoretic properties fundamentally affect the difficulty of learning in system identification, online estimation and control. In particular, I focus on the statistical difficulty of learning, which is captured by the sample complexity, namely the number of samples needed to achieve satisfactory identification/control performance. I am also interested in online and data-driven control.
 

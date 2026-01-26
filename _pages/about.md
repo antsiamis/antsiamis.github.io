@@ -19,7 +19,7 @@ My current research lies in the intersection of control theory and machine learn
 
 <figure>
     <img src="../images/RESEARCH.png"
-         alt="Research Agenda">
+         alt="Research Agenda" style="width: 80%;">
     <figcaption> Research Agenda.</figcaption>
 </figure>
   

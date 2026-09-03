@@ -26,11 +26,11 @@ author:
   avatar           : "tsiamis.jpg"
   name             : "Anastasios Tsiamis"
   pronouns         : # example: "she/her"  
-  bio              : "Senior Scientist, Automatic Control Laboratory, ETH Zurich"
-  location         : "Zurich"
-  employer         : "ETH Zurich"
+  bio              : "Assistant Professor, Automatic Control Laboratory, ECE, University of Patras"
+  location         : "Patras, Greece"
+  employer         : "University of Patras"
   uri              : # URL
-  email            : "atsiamis@control.ee.ethz.ch" 
+  email            : "atsiamis@upatras.gr" 
 
   # Academic websites
   academia         : # URL
